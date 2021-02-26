@@ -32,6 +32,11 @@ function search() {
             position: "0px -80px",
             url: "https://www.sogou.com/web?query="
         }, {
+            name: "夸克",
+            img: "url('/images/search_icon.png') -80px -50px",
+            position: "0px -80px",
+            url: "https://quark.sm.cn/s?q="
+        }, {
             name: "淘宝",
             img: "url('/images/search_icon.png') -105px -50px",
             position: "-40px -80px",
